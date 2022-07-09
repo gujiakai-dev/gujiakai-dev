@@ -1,6 +1,6 @@
 <p align="center">
-  <samp>
-    <a href="https://jiakai.page">Blog</a> .
-    <a href="https://muselink.cc/jiakai">Me</a>
-  </samp>
+    <a href="https://muselink.cc">me</a> .
+    <a href="https://jiakai.page">blog</a> .
+    <a href="https://gujiakai.zhubai.love">newsletter</a> .
+    <a href="https://space.bilibili.com/488592525">bilibili</a>
 </p>
